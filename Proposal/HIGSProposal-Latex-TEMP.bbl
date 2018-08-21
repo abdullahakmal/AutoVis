@@ -1,0 +1,478 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Broy%
+}{%
+Broy%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Broy}
+\APACinsertmetastar {%
+Broy}%
+\begin{APACrefauthors}%
+Broy, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1991}.
+\newblock
+\APACrefbtitle {Declarative specification and declarative programming}
+  {Declarative specification and declarative programming}.
+\newblock
+\begin{APACrefURL}
+  \url{https://dl-acm-org.lcproxy.shu.ac.uk/citation.cfm?id=952788}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cairo%
+}{%
+Cairo%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Cairo}
+\APACinsertmetastar {%
+Cairo}%
+\begin{APACrefauthors}%
+Cairo, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Ethical Infographics: In data visualization, Journalism meets
+  Engineering} {Ethical infographics: In data visualization, journalism meets
+  engineering}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dibia%
+\ \BBA {} Demiralp%
+}{%
+Dibia%
+\ \BBA {} Demiralp%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Dibia}
+\APACinsertmetastar {%
+Dibia}%
+\begin{APACrefauthors}%
+Dibia, V.%
+\BCBT {}\ \BBA {} Demiralp, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Data2Vis: Automatic Generation of Data Visualizations Using
+  Sequence to Sequence Recurrent Neural Networks} {Data2vis: Automatic
+  generation of data visualizations using sequence to sequence recurrent neural
+  networks}.
+\newblock
+\begin{APACrefURL} \url{http://arxiv.org/abs/1804.03126} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Frenay%
+\ \BBA {} Dumas%
+}{%
+Frenay%
+\ \BBA {} Dumas%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Frenay}
+\APACinsertmetastar {%
+Frenay}%
+\begin{APACrefauthors}%
+Frenay, B.%
+\BCBT {}\ \BBA {} Dumas, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Information Visualisation and Machine Learning:
+  Characteristics, Convergence and Perspective} {Information visualisation and
+  machine learning: Characteristics, convergence and perspective}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-18.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Keim%
+, Munzner%
+, Rossi%
+\BCBL {}\ \BBA {} Verleysen%
+}{%
+Keim%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+bridginginformation}
+\APACinsertmetastar {%
+bridginginformation}%
+\begin{APACrefauthors}%
+Keim, D\BPBI A.%
+, Munzner, T.%
+, Rossi, F.%
+\BCBL {}\ \BBA {} Verleysen, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Bridging Information Visualisation with Machine Learning}
+  {Bridging information visualisation with machine learning}.
+\newblock
+\begin{APACrefURL} \url{https://www.dagstuhl.de/en/program/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Key%
+, Howe%
+, Perry%
+\BCBL {}\ \BBA {} Aragon%
+}{%
+Key%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Key}
+\APACinsertmetastar {%
+Key}%
+\begin{APACrefauthors}%
+Key, A.%
+, Howe, B.%
+, Perry, D.%
+\BCBL {}\ \BBA {} Aragon, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {VizDeck: Self-Organizing Dashboards for Visual Analytics}
+  {Vizdeck: Self-organizing dashboards for visual analytics}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/2213836.2213931}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mackinlay%
+}{%
+Mackinlay%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+Mackinlay}
+\APACinsertmetastar {%
+Mackinlay}%
+\begin{APACrefauthors}%
+Mackinlay, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1986}.
+\newblock
+\APACrefbtitle {VizDeck: Self-Organizing Dashboards for Visual Analytics}
+  {Vizdeck: Self-organizing dashboards for visual analytics}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/22949.22950} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marks%
+}{%
+Marks%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Marks}
+\APACinsertmetastar {%
+Marks}%
+\begin{APACrefauthors}%
+Marks, J\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1991}.
+\newblock
+\APACrefbtitle {Automating the design of network diagrams} {Automating the
+  design of network diagrams}.
+\newblock
+\begin{APACrefURL} \url{https://dl.acm.org/citation.cfm?id=124656}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+M.Casner%
+}{%
+M.Casner%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Casner}
+\APACinsertmetastar {%
+Casner}%
+\begin{APACrefauthors}%
+M.Casner, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1991}.
+\newblock
+\APACrefbtitle {A Task Analytic Approach to the automated Design of Graphic
+  presentation} {A task analytic approach to the automated design of graphic
+  presentation}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/108360.108361} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Niu%
+, Zhang%
+\BCBL {}\ \BBA {} Shavlik%
+}{%
+Niu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+deepdive}
+\APACinsertmetastar {%
+deepdive}%
+\begin{APACrefauthors}%
+Niu, F.%
+, Zhang, C.%
+\BCBL {}\ \BBA {} Shavlik, J\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {DeepDive: Web-scale Knowledge-base Construction using
+  Statistical Learning and Inference} {Deepdive: Web-scale knowledge-base
+  construction using statistical learning and inference}\ (\BVOL\ 12(1)).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rayar%
+, Barrat%
+, Bouali%
+\BCBL {}\ \BBA {} Venturini%
+}{%
+Rayar%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Rayar}
+\APACinsertmetastar {%
+Rayar}%
+\begin{APACrefauthors}%
+Rayar, F.%
+, Barrat, S.%
+, Bouali, F.%
+\BCBL {}\ \BBA {} Venturini, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Incremental hierarchical indexing and visualisation of large
+  image collections} {Incremental hierarchical indexing and visualisation of
+  large image collections}.
+\newblock
+\begin{APACrefURL} \url{https://hal.archives-ouvertes.fr/hal-01315650/document}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R-DataSet%
+}{%
+R-DataSet%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+R-DataSet}
+\APACinsertmetastar {%
+R-DataSet}%
+\begin{APACrefauthors}%
+R-DataSet.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {R-DataSet Repository Information} {R-dataset repository
+  information}.
+\newblock
+\begin{APACrefURL}
+  \url{https://vincentarelbundock.github.io/Rdatasets/datasets.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Roth%
+, Kolojejchick%
+, Mattis%
+\BCBL {}\ \BBA {} Goldstein%
+}{%
+Roth%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1994}}%
+}]{%
+Roth}
+\APACinsertmetastar {%
+Roth}%
+\begin{APACrefauthors}%
+Roth, S\BPBI F.%
+, Kolojejchick, J.%
+, Mattis, J.%
+\BCBL {}\ \BBA {} Goldstein, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1994}.
+\newblock
+\APACrefbtitle {Interactive Graphic Design Using Automatic Presentation
+  Knowledge} {Interactive graphic design using automatic presentation
+  knowledge}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/191666.191719} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Satyanarayan%
+, Moritz%
+, Wongsuphasawat%
+\BCBL {}\ \BBA {} Heer%
+}{%
+Satyanarayan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Satyanarayan}
+\APACinsertmetastar {%
+Satyanarayan}%
+\begin{APACrefauthors}%
+Satyanarayan, A.%
+, Moritz, D.%
+, Wongsuphasawat, K.%
+\BCBL {}\ \BBA {} Heer, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Vega-Lite: A Grammar of Interactive Graphics} {Vega-lite: A
+  grammar of interactive graphics}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1109/TVCG.2016.2599030}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Skau%
+}{%
+Skau%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Skau}
+\APACinsertmetastar {%
+Skau}%
+\begin{APACrefauthors}%
+Skau, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {A Code of Ethics for Data Visualization Professionals} {A code
+  of ethics for data visualization professionals}.
+\newblock
+\begin{APACrefURL}
+  \url{https://visual.ly/blog/a-code-of-ethics-for-data-visualization-professionals/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tory%
+\ \BBA {} Muller%
+}{%
+Tory%
+\ \BBA {} Muller%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Tory}
+\APACinsertmetastar {%
+Tory}%
+\begin{APACrefauthors}%
+Tory, M.%
+\BCBT {}\ \BBA {} Muller, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2004}.
+\newblock
+\APACrefbtitle {Rethinking Visualization: A High-Level Taxonomy} {Rethinking
+  visualization: A high-level taxonomy}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1109/INFVIS.2004.59}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Treisman%
+}{%
+Treisman%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+AnneTreisman}
+\APACinsertmetastar {%
+AnneTreisman}%
+\begin{APACrefauthors}%
+Treisman, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1985}.
+\newblock
+\APACrefbtitle {Preattentive processing in vision} {Preattentive processing in
+  vision}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1016/S0734-189X(85)80004-9}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wickham%
+}{%
+Wickham%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Wickham}
+\APACinsertmetastar {%
+Wickham}%
+\begin{APACrefauthors}%
+Wickham, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2007}.
+\newblock
+\APACrefbtitle {A Layered Grammar of Graphics} {A layered grammar of graphics}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1198/jcgs.2009.07098}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
