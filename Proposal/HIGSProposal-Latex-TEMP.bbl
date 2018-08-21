@@ -1,6 +1,33 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Balog%
+, Gaunt%
+\BCBL {}\ \BBA {} Brockschmidt%
+}{%
+Balog%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+decode}
+\APACinsertmetastar {%
+decode}%
+\begin{APACrefauthors}%
+Balog, M.%
+, Gaunt, A\BPBI L.%
+\BCBL {}\ \BBA {} Brockschmidt, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {DeepCoder: Learning to Write programs} {Deepcoder: Learning to
+  write programs}.
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/pdf/1611.01989.pdf} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Broy%
 }{%
 Broy%
@@ -45,6 +72,29 @@ Cairo, A.%
 \APACrefbtitle {Ethical Infographics: In data visualization, Journalism meets
   Engineering} {Ethical infographics: In data visualization, journalism meets
   engineering}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dawson%
+}{%
+Dawson%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+appliedNN}
+\APACinsertmetastar {%
+appliedNN}%
+\begin{APACrefauthors}%
+Dawson, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Applied Neural Networds} {Applied neural networds}.
+\newblock
+\begin{APACrefURL} \url{http://www.mdpi.com/books/pdfview/book/236}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -102,6 +152,35 @@ Frenay, B.%
 \begin{APACrefURL}
   \url{https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-18.pdf}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hochreiter%
+\ \BBA {} Schmidhuber%
+}{%
+Hochreiter%
+\ \BBA {} Schmidhuber%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+RNN}
+\APACinsertmetastar {%
+RNN}%
+\begin{APACrefauthors}%
+Hochreiter, S.%
+\BCBT {}\ \BBA {} Schmidhuber, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1997}.
+\newblock
+\APACrefbtitle {Long Short-Term Memory} {Long short-term memory}\ (\BVOL~9)\
+  (\BNUM~8).
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1162/neco.1997.9.8.1735}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1162/neco.1997.9.8.1735} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -235,29 +314,32 @@ M.Casner, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Niu%
-, Zhang%
-\BCBL {}\ \BBA {} Shavlik%
+Poco%
+\ \BBA {} Heer%
 }{%
-Niu%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2012}}%
+Poco%
+\ \BBA {} Heer%
+}{%
+{\protect \APACyear {2017}}%
 }]{%
-deepdive}
+reverse}
 \APACinsertmetastar {%
-deepdive}%
+reverse}%
 \begin{APACrefauthors}%
-Niu, F.%
-, Zhang, C.%
-\BCBL {}\ \BBA {} Shavlik, J\BPBI W.%
+Poco, J.%
+\BCBT {}\ \BBA {} Heer, J.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{2012}.
+\APACrefYear{2017}.
 \newblock
-\APACrefbtitle {DeepDive: Web-scale Knowledge-base Construction using
-  Statistical Learning and Inference} {Deepdive: Web-scale knowledge-base
-  construction using statistical learning and inference}\ (\BVOL\ 12(1)).
+\APACrefbtitle {Reverse-Engineering Visualizations: Recovering Visual Encodings
+  from Chart Images} {Reverse-engineering visualizations: Recovering visual
+  encodings from chart images}\ (\BVOL\ 36(3)).
+\newblock
+\begin{APACrefURL}
+  \url{https://idl.cs.washington.edu/files/2017-ReverseEngineeringVis-EuroVis.pdf}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -473,6 +555,35 @@ Wickham, H.%
 \newblock
 \begin{APACrefURL} \url{https://doi.org/10.1198/jcgs.2009.07098}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wongsuphasawat%
+\ \protect \BOthers {.}}{%
+Wongsuphasawat%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+compass}
+\APACinsertmetastar {%
+compass}%
+\begin{APACrefauthors}%
+Wongsuphasawat, K.%
+, Moritz, D.%
+, Anand, A.%
+, Mackinlay, J.%
+, Howe, B.%
+\BCBL {}\ \BBA {} Heer, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Voyager: Exploratory Analysis via Faceted Browsing of
+  Visualization Recommendations} {Voyager: Exploratory analysis via faceted
+  browsing of visualization recommendations}\ (\BVOL~22)\ (\BNUM~1).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/TVCG.2015.2467191} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
