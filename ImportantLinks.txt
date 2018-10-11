@@ -1,0 +1,20 @@
+#########################################################################
+#########################################################################
+#Last Updated: 06/Oct/2018 - Friday					#	
+#This Contains the Different Links being Used at several points for 	#
+#Thesis. 								#
+#########################################################################
+1. Link: https://github.com/tensorflow/nmt
+Desc: Neural Machine Translation (Seq2Seq Translation)
+
+2. Link: https://github.com/Hvass-Labs/TensorFlow-Tutorials
+Desc: TensorFlow Tutorials
+
+3. Link: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+Desc: Information about NN, RNN and others.
+
+4. Link: https://github.com/lmthang/thesis
+Desc: Thesis on Google-NMT
+
+5. Link:https://google.github.io/seq2seq/nmt/
+Desc: seq2seq - wiki docs
