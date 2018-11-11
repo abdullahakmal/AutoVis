@@ -1,0 +1,1 @@
+[{"num0": 0, "num1": null, "str0": "Small", "str1": "AMERICAN AIRLINES", "str2": "AUSTIN-BERGSTROM INTL", "str3": "Approach", "str4": "Day", "str5": "None", "str6": "Unknown bird - small", "num2": 0, "str7": "MD-80", "str8": "8/1/95 0:00", "str9": "Texas", "num3": 0}]
